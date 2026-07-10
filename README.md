@@ -1,0 +1,38 @@
+# Proof Economy - Prior Art Declaration
+
+**Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
+**Date:** July 10, 2026  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) - Irrevocable  
+
+---
+
+This repository contains the Public Record of Provenance for the Proof Economy - an irrevocable open publication placing the concepts, methods, terminology, frameworks, and architectural patterns of the Proof Economy permanently into the public record.
+
+No subsequent party - individual, corporate, standards body, working group, consortium, or association - may assert proprietary licensing restrictions, copyright lock-in, or conformance gatekeeping over the concepts documented here.
+
+## Document
+
+[DECLARATION.md](./DECLARATION.md)
+
+## Why This Exists
+
+The infrastructure of trust should not be owned by the people whose claims it is meant to verify.
+
+Read the full statement in the declaration.
+
+## Authorship
+
+Authored solely by Craig Ellrod, Founder and CEO of Nebulonium, Inc. (d/b/a HACKERverse), drawing on thirty years of professional practice in offensive cybersecurity, adversarial system evaluation, and technical standards development. No external party contributed to, reviewed, or approved this declaration prior to publication.
+
+## Anchoring
+
+This declaration is independently timestamped by two sources at the moment of commit:
+
+- GitHub Release: see Releases - commit timestamp logged by GitHub at moment of push
+- NIST Randomness Beacon: pulse value embedded in DECLARATION.md - verify at beacon.nist.gov
+- Zenodo DOI: pending - permanent third-party archive
+- ProofRegister: cross-referenced as prior art anchor record
+
+## License
+
+CC BY 4.0 - Irrevocable. Attribution to Craig Ellrod / Nebulonium, Inc. / HACKERverse required.
