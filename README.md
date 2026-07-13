@@ -18,6 +18,10 @@ No subsequent party - individual, corporate, standards body, working group, cons
 
 The infrastructure of trust should not be owned by the people whose claims it is meant to verify.
 
+Right now products are being built that use agents. Agents are booking travel, executing trades, writing code, sending emails, and making purchasing decisions on behalf of humans and other agents. Nobody has a verifiable record of what any of them actually did or why.
+
+When something goes wrong - and it will - there is no proof. No receipt. No witness. No record that cannot be altered after the fact. Until now.
+
 Read the full statement in the declaration.
 
 ## Authorship
