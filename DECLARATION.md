@@ -17,7 +17,7 @@ What I have is thirty years of learning how systems break and what it costs when
 
 The infrastructure of trust should not be owned by the people whose claims it is meant to verify. That is not a legal position. It is a moral one. And it is the reason this declaration exists.
 
-I am not building the Proof Economy to get rich. I am building it because somewhere in the chain of human decisions - in the boardroom, in the regulator's office, in the hospital, in the cockpit, in the data center at three in the morning - someone is going to rely on a claim that was never verified. And something is going to break. And someone is going to pay for it who had no voice in the decision and no way to know.
+I am not building the Proof Economy to get rich. I am building it because somewhere in the chain of human decisions - in the boardroom, in the regulator's office, in the hospital, in the cockpit, in the data center at three in the morning - someone is going to rely on a claim that was never verified. A control that was never proven. And something is going to break. And someone is going to pay for it who had no voice in the decision and no way to know.
 
 That is the problem. This is the attempt.
 
