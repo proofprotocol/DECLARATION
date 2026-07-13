@@ -9,6 +9,8 @@
 
 ## Why This Exists
 
+Product that use agents, along with agents and humans do not trust agents. They trust proof
+
 There is a playbook for owning a category. You move fast, lock the vocabulary, control the standard, and extract the rent. You undercut whoever gets close. You do what cannot be openly seen. The people who wrote that playbook built empires with it and they are not ashamed.
 
 I cannot play that game. I do not have the money, the network, or the appetite for what it requires.
