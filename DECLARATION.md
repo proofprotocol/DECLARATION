@@ -29,7 +29,7 @@ That is what I leave behind.
 
 ## Purpose
 
-This declaration is the public record of provenance. Its purpose is to place the concepts, methods, terminology, frameworks, and architectural patterns described herein permanently and irrevocably into the public record under an open license, such that no subsequent party - individual, corporate, standards body, working group, consortium, or association - may assert proprietary licensing restrictions, copyright lock-in, or conformance gatekeeping over these concepts or their derivatives.
+This declaration is the public record of provenance. Its purpose is to place the concepts, methods, terminology, frameworks, and architectural patterns described herein permanently and irrevocably into the public record under an open license, such that no subsequent party - individual, corporate, standards body, working group, consortium, investor or association - may assert proprietary licensing restrictions, copyright lock-in, or conformance gatekeeping over these concepts or their derivatives.
 
 Any conformance framework, certification program, or standards initiative operating in the domain of agentic AI security evaluation, adversarial AI benchmarking, proof-of-behavior verification, or related disciplines is hereby placed on notice of this prior art.
 
