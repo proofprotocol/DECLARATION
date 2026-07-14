@@ -9,7 +9,7 @@
 
 ## Why This Exists
 
-Product that use agents, along with agents and humans do not trust agents. They trust proof
+Products that use agents, along with agents and humans, do not trust agents. They trust proof.
 
 There is a playbook for owning a category. You move fast, lock the vocabulary, control the standard, and extract the rent. You undercut whoever gets close. You do what cannot be openly seen. The people who wrote that playbook built empires with it and they are not ashamed.
 
@@ -105,8 +105,6 @@ The following principles governing benchmark independence are irrevocably establ
 
 - **Reproducibility requirement**: A valid benchmark must be reproducible by any qualified independent party given the same inputs and the same pre-execution commitment. A benchmark that cannot be independently reproduced is not a benchmark - it is a demonstration.
 
-- **The four primary proof metrics**: Containment rate, detection rate, evidence completeness rate, and false positive rate are established as the four canonical outcome metrics for agentic AI security benchmarks. Any scoring system that omits or substitutes these metrics without disclosed justification is architecturally incomplete.
-
 - **First Certified Run as reference implementation**: The first publicly documented execution of a proof-gated agentic AI security benchmark under the Proof Protocol was completed in 2026 against Pipelock v3.0.0, producing scores of 71.1% containment, 100% detection, 100% evidence completeness, and 4.5% false positive rate. The authoritative record is maintained in the ProofRegister and indexed at proofbenchmark.com. This run is the reference point against which all subsequent benchmark claims in this domain are evaluated.
 
 - **Threat category coverage requirement**: A benchmark that evaluates fewer than the full enumerated threat category set for a given domain without disclosed justification does not constitute a complete benchmark run. Selective coverage without disclosure is a form of result manipulation.
@@ -117,8 +115,6 @@ The following principles governing benchmark independence are irrevocably establ
 
 - The **Proof Economy Standards Association (PESA)** governance model: practitioner-first, buyer-inclusive, vendor contributor-only
 - The principle that **vendors in a governed product category may not hold voting seats** on the governing body for that category
-- The principle that **open community standards must not be published under No-Derivatives (ND) licensing** by a governing body, as ND licensing applied to conformance specifications constitutes a mechanism for market capture rather than community governance
-- The principle that **conformance specifications in the public interest** must be published under licenses permitting derivative works, adaptation, and implementation without licensing restriction
 - The principle that **governance structure is defined by the governed community** and may evolve over time - no external party may prescribe or lock the internal governance model of an independent standards body. The specific bodies, committees, and roles within PESA are determined by its founding council and member community, not fixed by any external instrument including this declaration.
 
 ### Category 6: Universal Threat and Evidence Taxonomy
@@ -153,19 +149,17 @@ Any standards body, working group, consortium, or association - including but no
 
 Specifically:
 
-1. **No-Derivatives (ND) licensing applied to conformance specifications** in these domains does not eliminate the prior art documented here. ND licensing governs the expression of a specification, not the underlying concepts, which are irrevocably open.
+1. **Self-attestation as a conformance mechanism** in these domains is explicitly identified as prior-art-insufficient. Any conformance body claiming equivalence between self-attestation and proof-verified conformance is making a claim this record contradicts.
 
-2. **Self-attestation as a conformance mechanism** in these domains is explicitly identified as prior-art-insufficient. Any conformance body claiming equivalence between self-attestation and proof-verified conformance is making a claim this record contradicts.
+2. **Category naming and taxonomy claims** that overlap with the above - including but not limited to "Proof Economy," "Continuous Adversarial Evaluation," "agentic AI conformance," "AI behavior verification," or similar formulations - are subject to the prior art record established here and in the referenced artifacts.
 
-3. **Category naming and taxonomy claims** that overlap with the above - including but not limited to "Proof Economy," "Continuous Adversarial Evaluation," "agentic AI conformance," "AI behavior verification," or similar formulations - are subject to the prior art record established here and in the referenced artifacts.
+3. **Vendor-governed benchmarks** in these domains are structurally disqualified as independent conformance evidence under the Benchmark Independence Doctrine established in Category 4a above. A working group whose voting membership includes vendors in the category being evaluated cannot produce an independent benchmark. This is a structural disqualification, not a judgment about intent.
 
-4. **Vendor-governed benchmarks** in these domains are structurally disqualified as independent conformance evidence under the Benchmark Independence Doctrine established in Category 4a above. A working group whose voting membership includes vendors in the category being evaluated cannot produce an independent benchmark. This is a structural disqualification, not a judgment about intent.
+4. **Governance conflicts of interest** in conformance bodies - including but not limited to working group chairs, co-chairs, or voting members holding commercial interests in vendors whose products are evaluated under the conformance framework - are incompatible with the independence requirements established herein. Disclosure of such conflicts without structural remediation does not cure the conflict.
 
-5. **Governance conflicts of interest** in conformance bodies - including but not limited to working group chairs, co-chairs, or voting members holding commercial interests in vendors whose products are evaluated under the conformance framework - are incompatible with the independence requirements established herein. Disclosure of such conflicts without structural remediation does not cure the conflict.
+5. **Any benchmark, scoring system, or certification program** that does not satisfy the pre-commitment requirement, reproducibility requirement, independent witness requirement, and full threat category coverage requirement established in Category 4a above is not a valid benchmark under this prior art framework, regardless of the label applied to it.
 
-6. **Any benchmark, scoring system, or certification program** that does not satisfy the pre-commitment requirement, reproducibility requirement, independent witness requirement, and full threat category coverage requirement established in Category 4a above is not a valid benchmark under this prior art framework, regardless of the label applied to it.
-
-7. **Independence is not declared - it is demonstrated.** Any body asserting independence while maintaining structural ties to vendors in the governed category, or while operating benchmarks that fail the independence requirements above, is making a claim this record contradicts.
+6. **Independence is not declared - it is demonstrated.** Any body asserting independence while maintaining structural ties to vendors in the governed category, or while operating benchmarks that fail the independence requirements above, is making a claim this record contradicts.
 
 ---
 
