@@ -39,4 +39,4 @@ This declaration is independently timestamped by two sources at the moment of co
 
 ## License
 
-CC BY 4.0 - Irrevocable. Attribution to Craig Ellrod / Nebulonium, Inc. / HACKERverse required.
+CC BY 4.0 - Irrevocable. Attribution to Craig Ellrod / Nebulonium, Inc. required.
