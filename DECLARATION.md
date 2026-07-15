@@ -41,6 +41,8 @@ Any conformance framework, certification program, or standards initiative operat
 
 | Date | Event | Evidence |
 |------|-------|----------|
+| November 2021 | Nebulonium, Inc. founded, Delaware C-corp | Founding thesis: proof of efficacy for cybersecurity platforms. The proof problem predates the AI governance category by years. |
+| 2004-2021 | 30 years of adversarial security practice | SUT/DUT methodology documented in Technical Marketing (2004). Red team operations at Cisco, Armor Defense, JupiterOne, Cequence Security. Foundational prior art for proof of efficacy under adversarial conditions. |
 | May 2025 | "Proof Economy™" category coined publicly | LinkedIn posts, public channels |
 | May 2025 | "Continuous Adversarial Evaluation™ (CAE)" category coined publicly | LinkedIn posts, public channels |
 | 2025–2026 | Proof Protocol™ Specification v1.0 authored and disclosed | PP-SPEC-001, GitHub commit history |
