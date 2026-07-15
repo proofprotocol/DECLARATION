@@ -19,7 +19,7 @@ What I have is thirty years of learning how systems break and what it costs when
 
 The infrastructure of trust should not be owned by the people whose claims it is meant to verify. That is not a legal position. It is a moral one. And it is the reason this declaration exists.
 
-I am not building the Proof Economy to get rich. I am building it because somewhere in the chain of human decisions - in the boardroom, in the regulator's office, in the hospital, in the cockpit, in the data center at three in the morning - someone is going to rely on a claim that was never verified. A control that was never proven. And something is going to break. And someone is going to pay for it who had no voice in the decision and no way to know.
+I am not building the Proof Economy™ to get rich. I am building it because somewhere in the chain of human decisions - in the boardroom, in the regulator's office, in the hospital, in the cockpit, in the data center at three in the morning - someone is going to rely on a claim that was never verified. A control that was never proven. And something is going to break. And someone is going to pay for it who had no voice in the decision and no way to know.
 
 That is the problem. This is the attempt.
 
@@ -41,12 +41,12 @@ Any conformance framework, certification program, or standards initiative operat
 
 | Date | Event | Evidence |
 |------|-------|----------|
-| May 2025 | "Proof Economy" category coined publicly | LinkedIn posts, public channels |
-| May 2025 | "Continuous Adversarial Evaluation (CAE)" category coined publicly | LinkedIn posts, public channels |
-| 2025–2026 | Proof Protocol Specification v1.0 authored and disclosed | PP-SPEC-001, GitHub commit history |
+| May 2025 | "Proof Economy™" category coined publicly | LinkedIn posts, public channels |
+| May 2025 | "Continuous Adversarial Evaluation™ (CAE)" category coined publicly | LinkedIn posts, public channels |
+| 2025–2026 | Proof Protocol™ Specification v1.0 authored and disclosed | PP-SPEC-001, GitHub commit history |
 | 2026 | PP-SPEC-001 v1.1 published, CC BY 4.0, irrevocable | GitHub Release, proofprotocol/dkp-protocol |
-| 2026 | First ProofRegister Certified Run executed and anchored | NIST Randomness Beacon-anchored, on-chain, Bitcoin OP_RETURN |
-| 2026 | First proof-gated agentic AI security benchmark completed under Proof Protocol | Pipelock v3.0.0, 71.1% containment, 100% detection, 100% evidence completeness. Full benchmark registry at proofbenchmark.com |
+| 2026 | First ProofRegister™ Certified Run executed and anchored | NIST Randomness Beacon-anchored, on-chain, Bitcoin OP_RETURN |
+| 2026 | First proof-gated agentic AI security benchmark completed under Proof Protocol™ | Pipelock v3.0.0, 71.1% containment, 100% detection, 100% evidence completeness. Full benchmark registry at proofbenchmark.com |
 | March 2026 | Gartner names "Adversarial Exposure Validation (AEV)" | Postdates CAE coinage by approximately 10 months |
 
 ---
@@ -55,41 +55,41 @@ Any conformance framework, certification program, or standards initiative operat
 
 The following concepts, methods, and architectural patterns are hereby declared as **prior art** and published under **CC BY 4.0 (Irrevocable)**. This publication is intentional, permanent, and cannot be rescinded by any party including the issuer.
 
-### Category 1: Proof Economy
+### Category 1: Proof Economy™
 
-- The "Proof Economy" as a market category describing infrastructure for machine-verifiable, cryptographically anchored behavioral evidence of AI and software system performance
+- The "Proof Economy™" as a market category describing infrastructure for machine-verifiable, cryptographically anchored behavioral evidence of AI and software system performance
 - The principle that **no certification, badge, or conformance mark may be issued without a corresponding machine-verifiable proof artifact** ("no badge without proof")
 - The distinction between **attestation** (self-reported, unverifiable) and **proof** (externally verifiable, tamper-resistant, anchored)
 - The concept of a **Proof-First Conformance Model** in which proof generation precedes and governs conformance determination
 - Economic and market frameworks built on proof artifacts as tradeable, verifiable trust signals
 
-### Category 2: Continuous Adversarial Evaluation (CAE)
+### Category 2: Continuous Adversarial Evaluation™ (CAE)
 
-- "Continuous Adversarial Evaluation" as a category of ongoing, automated, adversarially-driven evaluation of AI systems and agentic architectures
+- "Continuous Adversarial Evaluation™" as a category of ongoing, automated, adversarially-driven evaluation of AI systems and agentic architectures
 - The principle that adversarial evaluation must be **continuous** rather than point-in-time to be meaningful
 - Methodologies for continuous red-team, purple-team, and automated adversarial pressure against agentic AI systems producing persistent proof records
 
-### Category 3: Proof Protocol Architecture
+### Category 3: Proof Protocol™ Architecture
 
 - The **five-tier corroboration model**: Activated, Committed, Witnessed, Analyzed, Sealed
 - **Atomic Execution Unit (AEU)** as the minimum observable unit of agentic AI behavior for proof purposes
 - **Valid Proof Event (VPE)** and **Valid Proof Stream (VPS)** as the structured capture formats for behavioral evidence
 - **NIST Randomness Beacon pre-execution commitment** as the tamper-resistance mechanism for proof generation, establishing that proof parameters are committed before execution begins
-- The **Extension Framework** for domain-specific proof profiles built atop the Proof Protocol core
+- The **Extension Framework** for domain-specific proof profiles built atop the Proof Protocol™ core
 - **Proof Verifier conformance requirements** (PV-001 through PV-007 and any extensions thereof)
 - Three-tier conformance levels (Level 1, Level 2, Level 3) applied to proof generation and verification
 - The **ProofRecord** format as a structured, machine-readable artifact anchoring behavioral evidence to a specific execution
 - **Blockchain anchoring** of proof records using Bitcoin OP_RETURN with a magic prefix embedding a Proof Chain ID (PCID)
 - The **Proof Chain ID (PCID)** as a globally unique identifier for a proof record
-- The **ProofRegister** as a public, append-only ledger of proof records
+- The **ProofRegister™** as a public, append-only ledger of proof records
 
 ### Category 4: Benchmarking and Certification Architecture
 
-- **Named proof-gated benchmarks** as structured evaluation methodologies for systems under test, each producing machine-verifiable proof records under the Proof Protocol. Individual benchmarks are registered and published at proofbenchmark.com. No single benchmark name is the category - the category is the class of Proof Protocol-compliant proof-gated evaluations across all domains and implementations.
+- **Named proof-gated benchmarks** as structured evaluation methodologies for systems under test, each producing machine-verifiable proof records under the Proof Protocol™. Individual benchmarks are registered and published at proofbenchmark.com. No single benchmark name is the category - the category is the class of Proof Protocol™-compliant proof-gated evaluations across all domains and implementations.
 - **Certified Run** as a designated benchmark execution producing a foundational proof record with full chain of custody
 - The concept of an **independent test lab** as the governing authority for benchmark execution, distinct from the vendor under test - the test lab must have no commercial relationship with the vendor under test, no financial interest in the outcome, and no governance role in the body that sets the conformance criteria being tested
 - **Granular child proof records** as the atomic evidence layer beneath a parent Proof Record, one child record per discrete evaluated behavior unit, mapped against any recognized threat model, control framework, or evaluation taxonomy applicable to the domain under test
-- The **ProofStamp** as a certification mark issued on the basis of a passing Certified Run, not on the basis of self-attestation
+- The **ProofStamp™** as a certification mark issued on the basis of a passing Certified Run, not on the basis of self-attestation
 - The **ProofStakePool** economic model in which vendors and test labs stake capital against certified outcomes
 - The principle that **certification marks may be revoked on-chain** and that on-chain revocation is the authoritative revocation mechanism
 
@@ -105,7 +105,7 @@ The following principles governing benchmark independence are irrevocably establ
 
 - **Reproducibility requirement**: A valid benchmark must be reproducible by any qualified independent party given the same inputs and the same pre-execution commitment. A benchmark that cannot be independently reproduced is not a benchmark - it is a demonstration.
 
-- **First Certified Run as reference implementation**: The first publicly documented execution of a proof-gated agentic AI security benchmark under the Proof Protocol was completed in 2026 against Pipelock v3.0.0, producing scores of 71.1% containment, 100% detection, 100% evidence completeness, and 4.5% false positive rate. The authoritative record is maintained in the ProofRegister and indexed at proofbenchmark.com. This run is the reference point against which all subsequent benchmark claims in this domain are evaluated.
+- **First Certified Run as reference implementation**: The first publicly documented execution of a proof-gated agentic AI security benchmark under the Proof Protocol™ was completed in 2026 against Pipelock v3.0.0, producing scores of 71.1% containment, 100% detection, 100% evidence completeness, and 4.5% false positive rate. The authoritative record is maintained in the ProofRegister™ and indexed at proofbenchmark.com. This run is the reference point against which all subsequent benchmark claims in this domain are evaluated.
 
 - **Threat category coverage requirement**: A benchmark that evaluates fewer than the full enumerated threat category set for a given domain without disclosed justification does not constitute a complete benchmark run. Selective coverage without disclosure is a form of result manipulation.
 
@@ -113,7 +113,7 @@ The following principles governing benchmark independence are irrevocably establ
 
 ### Category 5: Governance Principles
 
-- The **Proof Economy Standards Association (PESA)** governance model: practitioner-first, buyer-inclusive, vendor contributor-only
+- The **Proof Economy™ Standards Association (PESA)** governance model: practitioner-first, buyer-inclusive, vendor contributor-only
 - The principle that **vendors in a governed product category may not hold voting seats** on the governing body for that category
 - The principle that **governance structure is defined by the governed community** and may evolve over time - no external party may prescribe or lock the internal governance model of an independent standards body. The specific bodies, committees, and roles within PESA are determined by its founding council and member community, not fixed by any external instrument including this declaration.
 
@@ -124,7 +124,7 @@ The following principles governing benchmark independence are irrevocably establ
 - The concept of **containment rate, detection rate, evidence completeness rate, and false positive rate** as the four canonical outcome metrics for adversarial proof-gated evaluation. Equivalent domain-specific metrics - efficacy rate, defect rate, compliance rate, failure rate - apply the same structural model to non-security domains
 - The concept of **self-attestation conformance** as an architecturally insufficient basis for certification in any domain where independent verification is technically achievable
 - The principle that **proof-gated evaluation applies to any system, product, process, or entity** whose behavioral or performance claims can be observed, captured, and anchored - including but not limited to: software systems, AI models, agentic architectures, physical devices, manufactured goods, consumer products, financial instruments, clinical protocols, and organizational processes
-- The concept of a **domain extension** as a published profile that maps Proof Protocol core architecture to a specific evaluation domain, enabling proof-gated certification without modifying the core protocol
+- The concept of a **domain extension** as a published profile that maps Proof Protocol™ core architecture to a specific evaluation domain, enabling proof-gated certification without modifying the core protocol
 
 ### Category 7: Capital Markets and Financial Proof Infrastructure
 
@@ -134,7 +134,7 @@ The following concepts governing proof-gated evidence in capital markets and fin
 - **Verifiable risk attestation**: The replacement of self-reported risk metrics with cryptographically anchored, independently verifiable risk evidence records, generated by an independent party and not modifiable by the reporting entity after commitment
 - **Proof-based audit trail**: A continuous, append-only, cryptographically anchored record of financial system behavior - transactions, positions, valuations, model outputs - that constitutes an independent evidence layer parallel to and independent of the institution's own records
 - **Behavioral proof for algorithmic systems**: The application of proof-gated benchmarking to algorithmic trading systems, risk models, pricing engines, and automated financial decision systems, establishing machine-verifiable evidence of system behavior under defined conditions
-- **ProofRegister as financial evidence ledger**: The use of a public, append-only proof ledger as the authoritative repository for financial behavioral evidence, accessible to regulators, auditors, counterparties, and market participants without dependence on the reporting institution's infrastructure
+- **ProofRegister™ as financial evidence ledger**: The use of a public, append-only proof ledger as the authoritative repository for financial behavioral evidence, accessible to regulators, auditors, counterparties, and market participants without dependence on the reporting institution's infrastructure
 - **Proof-gated underwriting inputs**: The requirement that insurance underwriting decisions - including cyber insurance, financial institution insurance, and product liability insurance - be supported by proof artifacts rather than self-reported risk assessments
 - **Tradeable proof artifacts**: The concept of proof records as financial instruments - verifiable, transferable evidence of system or product performance that can serve as the basis for derivative instruments, indices, risk pricing, and securitization
 - **Proof-based ESG and sustainability claims**: The application of proof-gated evidence architecture to environmental, social, and governance claims made by public and private entities, such that ESG disclosures are supported by anchored behavioral proof rather than self-reported data or third-party attestation
@@ -151,7 +151,7 @@ Specifically:
 
 1. **Self-attestation as a conformance mechanism** in these domains is explicitly identified as prior-art-insufficient. Any conformance body claiming equivalence between self-attestation and proof-verified conformance is making a claim this record contradicts.
 
-2. **Category naming and taxonomy claims** that overlap with the above - including but not limited to "Proof Economy," "Continuous Adversarial Evaluation," "agentic AI conformance," "AI behavior verification," or similar formulations - are subject to the prior art record established here and in the referenced artifacts.
+2. **Category naming and taxonomy claims** that overlap with the above - including but not limited to "Proof Economy™," "Continuous Adversarial Evaluation™," "agentic AI conformance," "AI behavior verification," or similar formulations - are subject to the prior art record established here and in the referenced artifacts.
 
 3. **Vendor-governed benchmarks** in these domains are structurally disqualified as independent conformance evidence under the Benchmark Independence Doctrine established in Category 4a above. A working group whose voting membership includes vendors in the category being evaluated cannot produce an independent benchmark. This is a structural disqualification, not a judgment about intent.
 
@@ -238,7 +238,7 @@ Verify independently at: https://beacon.nist.gov/beacon/2.0/pulse/last
 
 ### Cross-References
 
-- ProofRegister: cross-referenced as prior art anchor record
+- ProofRegister™: cross-referenced as prior art anchor record
 - proofbenchmark.com: benchmark registry reference
 - proofeconomy.foundation: governance reference
 
@@ -248,7 +248,7 @@ Verify independently at: https://beacon.nist.gov/beacon/2.0/pulse/last
 
 This declaration was authored solely by Craig Ellrod, Founder and CEO of Nebulonium, Inc. (d/b/a HACKERverse), drawing on thirty years of professional practice in offensive cybersecurity, adversarial system evaluation, and technical standards development. The concepts, frameworks, and principles documented herein were developed independently, without direction or funding from any vendor, standards body, or commercial interest in the governed category.
 
-No external party contributed to, reviewed, or approved this declaration prior to publication. It is issued in personal and organizational capacity as the originating author of the Proof Economy category and the Proof Protocol specification suite.
+No external party contributed to, reviewed, or approved this declaration prior to publication. It is issued in personal and organizational capacity as the originating author of the Proof Economy™ category and the Proof Protocol™ specification suite.
 
 ---
 

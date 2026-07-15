@@ -1,4 +1,4 @@
-# Proof Economy - Prior Art Declaration
+# Proof Economy™ - Prior Art Declaration
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** July 10, 2026  
@@ -6,7 +6,7 @@
 
 ---
 
-This repository contains the Public Record of Provenance for the Proof Economy - an irrevocable open publication placing the concepts, methods, terminology, frameworks, and architectural patterns of the Proof Economy permanently into the public record.
+This repository contains the Public Record of Provenance for the Proof Economy™ - an irrevocable open publication placing the concepts, methods, terminology, frameworks, and architectural patterns of the Proof Economy™ permanently into the public record.
 
 No subsequent party - individual, corporate, standards body, working group, consortium, or association - may assert proprietary licensing restrictions, copyright lock-in, or conformance gatekeeping over the concepts documented here.
 
@@ -35,7 +35,7 @@ This declaration is independently timestamped by two sources at the moment of co
 - GitHub Release: see Releases - commit timestamp logged by GitHub at moment of push
 - NIST Randomness Beacon: pulse value embedded in DECLARATION.md - verify at beacon.nist.gov
 - Zenodo DOI: pending - permanent third-party archive
-- ProofRegister: cross-referenced as prior art anchor record
+- ProofRegister™: cross-referenced as prior art anchor record
 
 ## License
 
