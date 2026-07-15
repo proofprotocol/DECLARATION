@@ -167,7 +167,7 @@ Specifically:
 
 All concepts, methods, frameworks, architectural patterns, terminology, and governance principles described in this declaration are published under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-This license is **irrevocable**. Attribution to Craig Ellrod / Nebulonium, Inc. / HACKERverse is required. No additional restrictions may be applied by any downstream party.
+This license is **irrevocable**. Attribution to Craig Ellrod / Nebulonium, Inc. is required. No additional restrictions may be applied by any downstream party.
 
 The irrevocable nature of this publication means that no act by the issuer, any successor entity, or any third party can remove these concepts from the public domain or subject them to more restrictive licensing after the date of this declaration.
 
