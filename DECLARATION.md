@@ -1,5 +1,3 @@
-> **Zenodo DOI:** [10.5281/zenodo.21379780](https://doi.org/10.5281/zenodo.21379780) — Published 2026-07-15
-
 # Public Declaration of Prior Art and Irrevocable Open Publication
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
@@ -264,3 +262,20 @@ Castle Rock, Colorado
 2026-07-10  
 
 *This document is a public record of provenance and irrevocable open publication. It is not legal advice. For questions regarding intellectual property, contact qualified IP counsel.*
+
+---
+
+## Addendum - 23 July 2026
+
+The following independently archived publications are supplied as supporting artifacts for the category coinage entries above. Each was captured by the Internet Archive, which controls the capture timestamp.
+
+| Published | Artifact | Archived | URI |
+|---|---|---|---|
+| 2025-09-18 | Continuous Autonomous Evaluation (CAE): The Next Category in Cybersecurity | 2025-10-06 | https://web.archive.org/web/20251006175845/https://blog.hackerverse.ai/2025/09/18/continuous-autonomous-evaluation-cae-the-next-category-in-cybersecurity/ |
+| 2025-09-25 | The Proof Economy: Proof Is the New Currency | 2025-10-06 | https://web.archive.org/web/20251006161031/https://blog.hackerverse.ai/2025/09/25/the-proof-economy-proof-is-the-new-currency-hackerverse-at-techcrunch-disrupt/ |
+| 2025-10-09 | The CAE Manifesto: Welcome to the Proof Economy | 2025-11-09 | https://web.archive.org/web/20251109060700/https://blog.hackerverse.ai/2025/10/09/the-cae-manifesto-welcome-to-the-proof-economy/ |
+| 2025-10-23 | The Proof Economy Manifesto | 2025-11-09 | https://web.archive.org/web/20251109065612/https://blog.hackerverse.ai/2025/10/23/the-proof-economy-manifesto/ |
+
+The earliest independently archived publication date is 18 September 2025, six months before Gartner released the Adversarial Exposure Validation category on 24 March 2026. The specifications cite this archived date rather than the internal formulation date recorded in the table above.
+
+The category was published as Continuous Autonomous Evaluation and refined to Continuous Adversarial Evaluation in the 2026 specifications, as the adversarial condition requirement became explicit.
