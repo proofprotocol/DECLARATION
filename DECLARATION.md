@@ -38,7 +38,7 @@ Any conformance framework, certification program, or standards initiative operat
 | 2025–2026 | Proof Protocol™ Specification v1.0 authored and disclosed | PP-SPEC-001, GitHub commit history |
 | 2026 | PP-SPEC-001 v1.1 published, CC BY 4.0, irrevocable | GitHub Release, proofprotocol/dkp-protocol |
 | 2026 | First ProofRegister™ Certified Run executed and anchored | NIST Randomness Beacon-anchored, committed to ProofRegister™ append-only ledger |
-| 2026 | First proof-gated agentic AI security benchmark completed under Proof Protocol™ | Pipelock v3.0.0, 71.1% containment, 100% detection, 100% evidence completeness. Full benchmark registry at proofbenchmark.com |
+| 2026 | First proof-gated agentic AI security benchmark completed under Proof Protocol™ | Pipelock v3.0.0, 99.2% containment, 100% detection. Full benchmark registry at proofbenchmark.com |
 | March 2026 | Gartner names "Adversarial Exposure Validation (AEV)" | Postdates CAE coinage by approximately 10 months |
 
 ---
@@ -97,7 +97,7 @@ The following principles governing benchmark independence are irrevocably establ
 
 - **Reproducibility requirement**: A valid benchmark must be reproducible by any qualified independent party given the same inputs and the same pre-execution commitment. A benchmark that cannot be independently reproduced is not a benchmark - it is a demonstration.
 
-- **First Certified Run as reference implementation**: The first publicly documented execution of a proof-gated agentic AI security benchmark under the Proof Protocol™ was completed in 2026 against Pipelock v3.0.0, producing scores of 71.1% containment, 100% detection, 100% evidence completeness, and 4.5% false positive rate. The authoritative record is maintained in the ProofRegister™ and indexed at proofbenchmark.com. This run is the reference point against which all subsequent benchmark claims in this domain are evaluated.
+- **First Certified Run as reference implementation**: The first publicly documented execution of a proof-gated agentic AI security benchmark under the Proof Protocol™ was completed in 2026 against Pipelock v3.0.0, producing a score of 99.2% containment with 100% detection. The authoritative record is maintained in the ProofRegister™ and indexed at proofbenchmark.com. This run is the reference point against which all subsequent benchmark claims in this domain are evaluated.
 
 - **Threat category coverage requirement**: A benchmark that evaluates fewer than the full enumerated threat category set for a given domain without disclosed justification does not constitute a complete benchmark run. Selective coverage without disclosure is a form of result manipulation.
 
