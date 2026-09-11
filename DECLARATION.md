@@ -9,23 +9,13 @@
 
 ## Why This Exists
 
-Products that use agents, along with agents and humans, do not trust agents. They trust proof.
+Products that use agents, and the humans relying on them, do not trust agents. They trust proof.
 
-There is a playbook for owning a category. You move fast, lock the vocabulary, control the standard, and extract the rent. You undercut whoever gets close. You do what cannot be openly seen. The people who wrote that playbook built empires with it and they are not ashamed.
+There is a well-worn playbook for owning a category: move fast, lock the vocabulary, control the standard, and extract rent from anyone who gets close. This declaration takes a different position.
 
-I cannot play that game. I do not have the money, the network, or the appetite for what it requires.
+The infrastructure of trust should not be owned by the party whose claims it is meant to verify. That is not a legal position - it is the reason this declaration exists.
 
-What I have is thirty years of learning how systems break and what it costs when they do. What I have is the memory of every practitioner who did the right thing inside a structure that rewarded the wrong one. What I have is a family I am trying to leave something for - not a fortune, but a world with a little more truth in it.
-
-The infrastructure of trust should not be owned by the people whose claims it is meant to verify. That is not a legal position. It is a moral one. And it is the reason this declaration exists.
-
-I am not building the Proof Economy™ to get rich. I am building it because somewhere in the chain of human decisions - in the boardroom, in the regulator's office, in the hospital, in the cockpit, in the data center at three in the morning - someone is going to rely on a claim that was never verified. A control that was never proven. And something is going to break. And someone is going to pay for it who had no voice in the decision and no way to know.
-
-That is the problem. This is the attempt.
-
-Not perfect. Not finished. But open, irrevocable, and offered without reservation to anyone who wants to build a world that can trust itself.
-
-That is what I leave behind.
+This declaration places the concepts, methods, and architecture of the Proof Economy™ irrevocably into the public record, open to anyone building systems that can be trusted rather than merely claimed.
 
 ---
 
