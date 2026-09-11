@@ -47,7 +47,7 @@ Any conformance framework, certification program, or standards initiative operat
 | May 2025 | "Continuous Adversarial Evaluation™ (CAE)" category coined publicly | LinkedIn posts, public channels |
 | 2025–2026 | Proof Protocol™ Specification v1.0 authored and disclosed | PP-SPEC-001, GitHub commit history |
 | 2026 | PP-SPEC-001 v1.1 published, CC BY 4.0, irrevocable | GitHub Release, proofprotocol/dkp-protocol |
-| 2026 | First ProofRegister™ Certified Run executed and anchored | NIST Randomness Beacon-anchored, on-chain, Bitcoin OP_RETURN |
+| 2026 | First ProofRegister™ Certified Run executed and anchored | NIST Randomness Beacon-anchored, committed to ProofRegister™ append-only ledger |
 | 2026 | First proof-gated agentic AI security benchmark completed under Proof Protocol™ | Pipelock v3.0.0, 71.1% containment, 100% detection, 100% evidence completeness. Full benchmark registry at proofbenchmark.com |
 | March 2026 | Gartner names "Adversarial Exposure Validation (AEV)" | Postdates CAE coinage by approximately 10 months |
 
@@ -81,7 +81,7 @@ The following concepts, methods, and architectural patterns are hereby declared 
 - **Proof Verifier conformance requirements** (PV-001 through PV-007 and any extensions thereof)
 - Three-tier conformance levels (Level 1, Level 2, Level 3) applied to proof generation and verification
 - The **ProofRecord** format as a structured, machine-readable artifact anchoring behavioral evidence to a specific execution
-- **Blockchain anchoring** of proof records using Bitcoin OP_RETURN with a magic prefix embedding a Proof Chain ID (PCID)
+- **Append-only ledger anchoring** of proof records via ProofRegister™, using NIST Randomness Beacon pre-execution commitment as the tamper-resistance mechanism, with each proof record embedding a Proof Chain ID (PCID)
 - The **Proof Chain ID (PCID)** as a globally unique identifier for a proof record
 - The **ProofRegister™** as a public, append-only ledger of proof records
 
@@ -141,7 +141,7 @@ The following concepts governing proof-gated evidence in capital markets and fin
 - **Tradeable proof artifacts**: The concept of proof records as financial instruments - verifiable, transferable evidence of system or product performance that can serve as the basis for derivative instruments, indices, risk pricing, and securitization
 - **Proof-based ESG and sustainability claims**: The application of proof-gated evidence architecture to environmental, social, and governance claims made by public and private entities, such that ESG disclosures are supported by anchored behavioral proof rather than self-reported data or third-party attestation
 - **Regulatory submission proof packages**: Structured collections of proof artifacts assembled for submission to financial regulators, replacing or supplementing self-reported compliance documentation with machine-verifiable evidence records
-- **Multi-party proof verification**: The architecture enabling multiple independent parties - regulators, auditors, counterparties, rating agencies - to verify the same proof artifact against the same blockchain anchor without requiring access to the originating institution's systems
+- **Multi-party proof verification**: The architecture enabling multiple independent parties - regulators, auditors, counterparties, rating agencies - to verify the same proof artifact against the same ledger anchor without requiring access to the originating institution's systems
 
 ---
 
