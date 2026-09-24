@@ -1,0 +1,26 @@
+{
+  "title": "Proof Economy Prior Art Declaration",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "Proof Economy Prior Art Declaration",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-protocol",
+    "proof-economy",
+    "prior-art"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/DECLARATION",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
