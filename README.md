@@ -12,6 +12,11 @@ This repository contains the Public Record of Provenance for the Proof Economyâ„
 
 No subsequent party - individual, corporate, standards body, working group, consortium, or association - may assert proprietary licensing restrictions, copyright lock-in, or conformance gatekeeping over the concepts documented here.
 
+## Cite as
+
+Ellrod, C. (2026). Proof Economy Prior Art Declaration.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.21379780
+
 ## Document
 
 [DECLARATION.md](./DECLARATION.md)
