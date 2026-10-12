@@ -3,7 +3,7 @@
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** 2026-07-10  
 **Repository:** proofprotocol/declaration  
-**License:** Creative Commons Attribution 4.0 International (CC BY 4.0) - Irrevocable  
+**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY-ND 4.0 under Part S. See LICENSE.md.
 
 ---
 
@@ -45,7 +45,7 @@ Any conformance framework, certification program, or standards initiative operat
 
 ## Irrevocably Open Concepts
 
-The following concepts, methods, and architectural patterns are hereby declared as **prior art** and published under **CC BY 4.0 (Irrevocable)**. This publication is intentional, permanent, and cannot be rescinded by any party including the issuer.
+The following concepts, methods, and architectural patterns are hereby declared as **prior art** and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Category 1: Proof Economy™
 
@@ -157,7 +157,7 @@ Specifically:
 
 ## License Statement
 
-All concepts, methods, frameworks, architectural patterns, terminology, and governance principles described in this declaration are published under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+All concepts, methods, frameworks, architectural patterns, terminology, and governance principles described in this declaration are Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 This license is **irrevocable**. Attribution to Craig Ellrod / Nebulonium, Inc. is required. No additional restrictions may be applied by any downstream party.
 
