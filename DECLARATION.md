@@ -3,7 +3,7 @@
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** 2026-07-10  
 **Repository:** proofprotocol/declaration  
-**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY 4.0 under Part S. See LICENSE.md.
+**License:** Apache License 2.0 (Proof Protocol License 1.0, Part A). See LICENSE.md.
 
 ---
 
@@ -45,7 +45,7 @@ Any conformance framework, certification program, or standards initiative operat
 
 ## Irrevocably Open Concepts
 
-The following concepts, methods, and architectural patterns are hereby declared as **prior art** and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+The following concepts, methods, and architectural patterns are hereby declared as **prior art** and licensed under the Apache License 2.0 (Proof Protocol License 1.0, Part A; see LICENSE.md). Every prior version of this declaration, including the versions published under earlier licenses, is also licensed under the Apache License 2.0 from its original publication date. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Category 1: Proof Economy™
 
@@ -157,7 +157,7 @@ Specifically:
 
 ## License Statement
 
-All concepts, methods, frameworks, architectural patterns, terminology, and governance principles described in this declaration are Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+All concepts, methods, frameworks, architectural patterns, terminology, and governance principles described in this declaration are licensed under the Apache License 2.0 (Proof Protocol License 1.0, Part A; see LICENSE.md). Every prior version of this declaration, including the versions published under earlier licenses, is also licensed under the Apache License 2.0 from its original publication date. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 This license is **irrevocable**. Attribution to Craig Ellrod / Nebulonium, Inc. is required. No additional restrictions may be applied by any downstream party.
 

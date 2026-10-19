@@ -4,7 +4,7 @@
 
 **Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)  
 **Date:** July 10, 2026  
-**License:** Greater Good Commercial License 1.0 (GGL-C-1.0); text CC BY 4.0 under Part S. See LICENSE.md.
+**License:** Apache License 2.0 (Proof Protocol License 1.0, Part A). See LICENSE.md.
 
 ---
 
@@ -46,7 +46,7 @@ This declaration is independently timestamped by two sources at the moment of co
 
 ## License
 
-CC BY 4.0 - Irrevocable. Attribution to Craig Ellrod / Nebulonium, Inc. required.
+Apache License 2.0 (Proof Protocol License 1.0, Part A). Irrevocable. Redistributions must retain NOTICE attribution to Craig Ellrod / Nebulonium, Inc. Earlier versions were published under CC BY 4.0 and remain irrevocably available; all versions are also licensed under Apache License 2.0.
 
 
 ## Foundational Governance

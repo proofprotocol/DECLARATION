@@ -1,4 +1,4 @@
-# Patent Schedule (GGL Part P)
+# Patent Schedule (Proof Protocol License 1.0, Part A2)
 
 Covered Work: Proof Economy™ - Prior Art Declaration, version 1.0.0
 Schedule version: 1, published 2026-10-12
